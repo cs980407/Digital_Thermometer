@@ -52,3 +52,5 @@ this project is common-cathode type.
 5.	Breadboard
 6.	Male-to-male jumpers
 7.	Male-to-female jumpers
+
+# 5.0 SIMULATION AND RESULTS
