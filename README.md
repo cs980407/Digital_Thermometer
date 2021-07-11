@@ -60,3 +60,7 @@ this project is common-cathode type.
 
 As seen in the Figure 7, the when dht11 sensor start to read the input data, no output shown after 430ps. After 430ps, TH 
 give high output means the green LED will light up and give a signal to switch on the air conditioner. 
+
+![image](https://user-images.githubusercontent.com/87258961/125190397-81b06380-e26f-11eb-854f-15c61011ff0e.png)
+
+# 6.0 HARDWARE DEMONSTRATION
