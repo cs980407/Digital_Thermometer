@@ -64,3 +64,5 @@ give high output means the green LED will light up and give a signal to switch o
 ![image](https://user-images.githubusercontent.com/87258961/125190397-81b06380-e26f-11eb-854f-15c61011ff0e.png)
 
 # 6.0 HARDWARE DEMONSTRATION
+
+
