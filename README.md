@@ -54,3 +54,5 @@ this project is common-cathode type.
 7.	Male-to-female jumpers
 
 # 5.0 SIMULATION AND RESULTS
+
+![image](https://user-images.githubusercontent.com/87258961/125190151-2b8ef080-e26e-11eb-9bc5-adcb7fa43a5f.png)
