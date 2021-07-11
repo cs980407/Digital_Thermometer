@@ -35,6 +35,12 @@ project. The circuit design is shown in Figure 1.
 
 ![Capture](https://user-images.githubusercontent.com/87258961/125189937-3d23c880-e26d-11eb-9304-11e55d27170a.PNG)
 
+The left two most of 7-segment LED display is used to display the value of surrounding humidity, while the right two most of 
+7-segment LED display is used to display the value of surrounding temperature. All the four 7-segment LED display used in 
+this project is common-cathode type. 
+
+
+
 # 3.0 SOFTWARE
 1.	Quartus II
 
