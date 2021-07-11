@@ -32,8 +32,8 @@ code can be referred in APPENDIX. For DHT11, There are 7 states in DHT11 sensor,
 
 Next, in order to show the actual value of surrounding temperature and humidity, four 7 segment LED display is used in this 
 project. The circuit design is shown in Figure 1.
-![Capture](https://user-images.githubusercontent.com/87258961/125189937-3d23c880-e26d-11eb-9304-11e55d27170a.PNG)
 
+![Capture](https://user-images.githubusercontent.com/87258961/125189937-3d23c880-e26d-11eb-9304-11e55d27170a.PNG)
 
 # 3.0 SOFTWARE
 1.	Quartus II
