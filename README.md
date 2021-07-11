@@ -65,4 +65,8 @@ give high output means the green LED will light up and give a signal to switch o
 
 # 6.0 HARDWARE DEMONSTRATION
 
+![image](https://user-images.githubusercontent.com/87258961/125190459-d0f69400-e26f-11eb-8375-4925a62a5e47.png)
 
+Figure 10 show the result of hardware connection dht11 sensor. As seen in the 4 7-segment LED display, the humidity level 
+is 79% and the temperature is 28°C. The green LED is not lighting up because the temperature is lower than 30°C. This 
+indicates that there is no signal to switch on air-conditioner.
