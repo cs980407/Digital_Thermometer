@@ -39,7 +39,7 @@ The left two most of 7-segment LED display is used to display the value of surro
 7-segment LED display is used to display the value of surrounding temperature. All the four 7-segment LED display used in 
 this project is common-cathode type. 
 
-
+![image](https://user-images.githubusercontent.com/87258961/125189988-83792780-e26d-11eb-908a-36cbf3b5ee4a.png)
 
 # 3.0 SOFTWARE
 1.	Quartus II
